@@ -1,1 +1,0 @@
-The following project is intended for the early portfolio work performed by me, Tamerlan Mukashev, to analyze the changes of the certain variables per time form KASE databse.
